@@ -1,0 +1,3 @@
+C:/Users/Oblitionmaster/Documents/GitHub/Ejercicio-de-Pareja/cmake-build-debug/CMakeFiles/Ejercicio_de_Pareja.dir
+C:/Users/Oblitionmaster/Documents/GitHub/Ejercicio-de-Pareja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oblitionmaster/Documents/GitHub/Ejercicio-de-Pareja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
