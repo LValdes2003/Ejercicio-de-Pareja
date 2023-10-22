@@ -3,16 +3,18 @@
 //
 
 #include "iostream"
-#include "nombre_edad.h"
+#include "string"
 
 int main() {
-    char* nombre = new char[100];
     int edad;
-    std::cout << "Introduce tu nombre: \n";
+    std::string nombre{};
+
+    std::cout << "Introduce su nombre" << std::endl;
     std::cin >> nombre;
-    std::cout << "Introduce tu edad: \n";
+
+    std::cout << "Introduce su edad" << std::endl;
     std::cin >> edad;
-    std::cout << nom_edad(nombre, edad) << std::endl;
-    delete[] nombre;
+
+    std::cout << "Hola " << nombre << " tienes " << edad << " años" << std::endl;
     return 0;
 }

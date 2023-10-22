@@ -5,5 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Ejercicio_de_Pareja
         main.cpp
-        nombre_edad.h
-        nombre_edad.cpp)
+)

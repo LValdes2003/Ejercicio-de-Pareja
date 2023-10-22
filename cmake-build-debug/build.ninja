@@ -55,12 +55,6 @@ build CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj: CXX_COMPILER__Ejercicio_d
   OBJECT_DIR = CMakeFiles\Ejercicio_de_Pareja.dir
   OBJECT_FILE_DIR = CMakeFiles\Ejercicio_de_Pareja.dir
 
-build CMakeFiles/Ejercicio_de_Pareja.dir/nombre_edad.cpp.obj: CXX_COMPILER__Ejercicio_de_Pareja_unscanned_Debug C$:/Users/Oblitionmaster/Documents/GitHub/Ejercicio-de-Pareja/nombre_edad.cpp || cmake_object_order_depends_target_Ejercicio_de_Pareja
-  DEP_FILE = CMakeFiles\Ejercicio_de_Pareja.dir\nombre_edad.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Ejercicio_de_Pareja.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_de_Pareja.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Ejercicio_de_Pareja
@@ -69,7 +63,7 @@ build CMakeFiles/Ejercicio_de_Pareja.dir/nombre_edad.cpp.obj: CXX_COMPILER__Ejer
 #############################################
 # Link the executable Ejercicio_de_Pareja.exe
 
-build Ejercicio_de_Pareja.exe: CXX_EXECUTABLE_LINKER__Ejercicio_de_Pareja_Debug CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj CMakeFiles/Ejercicio_de_Pareja.dir/nombre_edad.cpp.obj
+build Ejercicio_de_Pareja.exe: CXX_EXECUTABLE_LINKER__Ejercicio_de_Pareja_Debug CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ejercicio_de_Pareja.dir
