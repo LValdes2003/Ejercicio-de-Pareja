@@ -1,9 +1,5 @@
 # ninja log v5
 83	1158	7194405296612735	CMakeFiles/Ejercicio_de_Pareja.dir/nombre_edad.cpp.obj	331fea435e696e16
-4	629	7194407788639117	CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj	9731ea34fb89486
-631	966	7194407791880457	Ejercicio_de_Pareja.exe	7449b8e2aa221c79
-2	604	7197053336071600	build.ninja	e5c74f8df93e60e4
-4	1474	7197053351610042	CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj	9731ea34fb89486
-1476	2601	7197053362770198	Ejercicio_de_Pareja.exe	1e8aa13622a3ad05
 5	1040	7197055829205021	CMakeFiles/Ejercicio_de_Pareja.dir/main.cpp.obj	9731ea34fb89486
+2	604	7197725199169090	build.ninja	e5c74f8df93e60e4
 1043	1352	7197055832206985	Ejercicio_de_Pareja.exe	1e8aa13622a3ad05
