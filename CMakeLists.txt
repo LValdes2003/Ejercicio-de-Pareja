@@ -5,4 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Ejercicio_de_Pareja
         main.cpp
+        funciones.cpp
+        funciones.h
+        cmake-build-debug/funcion_externa.cpp
 )
