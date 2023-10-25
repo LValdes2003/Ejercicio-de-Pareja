@@ -3,7 +3,6 @@
 
 //  Declara varias funciones
 // Funciones homónimas (polimorfismo)
-
 int suma(int a, int b, int c){
     return a+b+c;
 }
@@ -41,4 +40,9 @@ int fibonacci(int n){
     } else {
         return fibonacci(n-1) + fibonacci(n-2);
     }
+}
+
+// Tipo void
+void holamundo() {
+    std::cout << "Hola mundo!" << std::endl;
 }
